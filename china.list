@@ -1,3 +1,4 @@
-DOMAIN-SUFFIX,sg.ssk1.tech
-DOMAIN-SUFFIX,synology.me
-DOMAIN-SUFFIX,euserv.com
+DOMAIN-SUFFIX,oai.ssk1.eu.org,DIRECT
+DOMAIN-SUFFIX,bing.com,PROXY,DIRECT
+DOMAIN-SUFFIX,bing.com,DIRECT
+DOMAIN-SUFFIX,home.ssk1.eu.org,DIRECT
