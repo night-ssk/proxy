@@ -1,0 +1,18 @@
+# General cache and build artifacts
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Build directories
+build/
+out/
+dist/
